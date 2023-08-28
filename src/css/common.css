@@ -1,0 +1,44 @@
+body {
+    font-size: 24px;
+    color: #2f2f37;
+    background-color: #fff;
+}
+
+.breed-select {
+    font-size: 18px;
+}
+
+.cat-info {
+    display: flex;
+    gap: 24px;
+}
+
+.cat-img-js {
+    width: 900px;
+}
+
+.cat-div-js {
+    max-width: 600px;
+}
+
+.cat-head-js {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.cat-text-js {
+    font-size: 24px;
+}
+
+.cat-text-js span {
+    font-weight: bold;
+}
+
+.is-hidden {
+    display: none;
+}
+
+.error {
+    color: tomato;
+}
